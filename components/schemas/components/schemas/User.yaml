@@ -7,7 +7,7 @@ User:
     id:
       $ref: "./defaults.yaml#/id"
     username:
-      type: stringg
+      type: string
     email:
       type: string
       format: email
